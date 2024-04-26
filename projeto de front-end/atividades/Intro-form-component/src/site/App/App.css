@@ -1,0 +1,15 @@
+
+
+body{
+    display: flex;
+    background-image: url(../../../images/images/bg-intro-desktop.png);
+    background-color: hsl(0, 100%, 74%);
+    height:  100%;
+    align-items: center;
+    position: absolute;
+}
+
+.container-main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}

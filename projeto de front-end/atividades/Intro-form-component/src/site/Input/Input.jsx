@@ -1,0 +1,2 @@
+
+const Input = ({type, placeholder})

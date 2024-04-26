@@ -1,0 +1,13 @@
+
+article{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    width: 400px;
+    background-color: darkgreen;
+    
+}
+
+img{
+    width: 100px;
+}
